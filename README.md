@@ -11,4 +11,4 @@ Steps to Get Project working
 
 4) Run Server using Uvicorn
     uvicorn main:app --reload
-    main -> it it the file where our APIs are
+    main -> it the file where our APIs are
