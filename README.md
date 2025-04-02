@@ -10,5 +10,6 @@ Steps to Get Project working
     pip install -r requirements.txt
 
 4) Run Server using Uvicorn
-    uvicorn main:app --reload  
-    main ->  it the file where our APIs are
+    uvicorn main:app --reload
+    main -> it the file where our APIs are
+
