@@ -1,0 +1,34 @@
+   ~Kindly Refer to the Annexure for Projects Executed
+
+
+ Projects Executed (Annexure)
+   Organization: Ivy Mobility solutions
+BAT -Took requirements and Solutioned the below Enhancement in Direct sales module in Ivy application and Salesforce
+Sales order placement feature in different platforms (Ivy/mobile orders, Salesforce/backend orders, uploaded backend orders) with features like Credit limit, credit days, Discount application, Overdue threshold check, warn/block/send Order for approval, Suggested Order quantity, UOMs etc.
+Load Van stock, verify & accept van stock, fulfil orders from van stock, Stock Reconciliation, Van stock Movement -> Van <->Cage. 
+Collect money for Invoices by cash/cheque/Mobile money/EFT/Boleto/Promissory note/Credit Note/Loyalty points
+Splitting single order into Multiple instalments and Integrating Ivy generated Invoice to external govt. systems
+Pricing solution in Salesforce, integrated with SAP along with country specific components like Alcohol tax, Red-bull tax, Sugar tax,  
+Distribution fee, cash fee, credit fee
+ Return order & Order delivery management, Stock check, price check, Freshness check, Share of shelf, Reports in Ivy like Collection report, day report and many more…
+Contract management, targeting, agreement.
+
+Solutioned from scratch Invest brief application in salesforce for BAT
+               Description: 
+A set of Retailers are multi- selected and mapped them with multiple contract templates to form different group clusters. 
+User Inputs contract start date, duration, Volume/month/category, FF/VarFee/template. Based on this complex calculation on several Kpi's Like Trade margin absolute value, Front/back margin, Total fee etc. are calculated category wise. Then finally total investment value is obtained. 
+This Investment value is sent through a series of custom defined Multi-level approval flow in Salesforce based on Investment value range.
+Post approvals, System generates a contract PDF based on a template along with dynamic values obtained in the KPI and Investment calculation.
+This saved lots of time, effort and manpower from the Client side, as they were manually doing this in Excel earlier. 
+
+L’Oréal- Solutioned the below requirements
+Contributed in Sales forecasting, Promotion schemes, Geo Location Updates, Pricing, Salon visit journey Plan, E-visit options etc.
+
+   Organization: Flex Technologies
+Supermarket- Created an application with a complex workflow to manage, & store WIP (PCBA-printed circuit board assembly) inventory of semi-finished goods in super markets (storage area). Interfaced with planning systems to prevent over-stocking/stock out in WIP. Application decides correct position PCBA should be stored, so that travelling distance to assembly area is minimum. This led to improved productivity (reduction in WIP inv. 100%-time reduction to search PCBA, 60% improvement in storing time of PCB) also went onsite to Malaysia factory requirements gathering and then for implementation.
+Flex Smart-Process automation project, to automate sending of SMT line parameters sent from inside of the machines, while production. The data is displayed in live dashboard using IBM thingworx platform. This includes tabular data as well as statistical graph display of machine parameters (i-MR, X Bar R, P, U chart and histogram). Prioritized the parameters by liaising between the customer and factory production managers, to display on dashboard. 
+Bill of materials application- small application to read, store and display bill of material structures from BAAN ERP Qualitative and quantitative analysis of transactional data to draw key business insights and reports
+AR factoring- An application to automate the entire accounts receivable factoring process with AR sales, reconciliation, cash settlement, defaulting client status to bank and various reports using analytics.
+
+
+

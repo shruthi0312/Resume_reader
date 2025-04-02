@@ -1,0 +1,125 @@
+
+			                        			              	
+VIJAY C                                 
++91-812391715                                                           vijaychandrashekar7143@gmail.com 
+
+
+Experience Summary 
+
+Overall 5.1 years of experience IT industry in various technologies like MuleSoft ESB and EAI, MuleSoft AnyPoint Platform, SFDC, Wise Script. Also, Windows Servers Installation and Configurations.
+Having 4.1 years of experience using MuleSoft Enterprise Service Bus (ESB) for the integrations as per client requirements.
+Good technical experience on various components of AnyPoint Platform like Design Center, API Manager, Runtime Manager, Exchange.
+Good Experience in using different Mule connectors. (Http, SFTP, Webservice Consumer, Database, Salesforce, JMS, Object Store, Anypoint MQ,SAP,Salesforce,AmazonS3 etc.).
+Hands-on experience on Microservices.
+RAML 1.0 is used to design APIs and API-led connectivity is used to deliver reusable and purposeful APIs.
+Experience in Cloud Hub.
+Worked on Batch Processing to process bulk records.
+Experience in creating mock APIs in Cloud Hub using design center.
+Experience in creating REST and SOAP webservices.
+Experience in deployements into CloudHub 1.0,2.0,RTF & Hybrid
+Experience in Microsoft Windows Installer Technology and Installation and Configuration of applications and tools on different windows platforms.
+Knowledge of different Windows OS, registries, and system level troubleshooting.
+Knowledge in Change Management in different tools like Maximo for changes and SharePoint, ServiceNow & Jira for raising incidents and service requests.
+Having exposure to Agile Methodology to meet the client deadlines.
+Education Qualification
+
+B E Coumpter Science Engineering from SRM.
+
+
+Professional Experience:
+
+Worked as MULE Soft Developer at Accenture from 2019 to till Date
+
+Professional Certifications: 
+
+MuleSoft Certified Developer MCD Level-1 (Mule 4).
+
+
+
+
+
+
+
+
+Tools and Platform
+
+
+Primary Skills 		: Mule ESB, Any point Studio, REST, XML, JSON, Cloud Hub, SQL.
+Operating System	: Windows XP, Windows 7,8,10
+Database		: SQL, MySQL.
+Technical Skills		: Integration Platform: Mule ESB 4.x, Any point Platform.
+Web Services		: REST, SOAP.
+Build Tools/IDE		: Eclipse, Any point Studio, Git desktop and Jenkins
+Web Server		: Cloudhub 1.0,2.0 ,RTF & Hybrid
+Tools			: GIT, Jira, Confluence.
+
+Hands on Experience :
+
+Project Synopsis:
+ 
+Project #3	:    Captial One (Jan 2023 – tillDate)
+Role	:    MuleSoft API and Integration developer
+Environment	:    Java, Anypoint studio, RAML API and Any point platform
+Tools Used	:    Postman, Maven, Eclipse, Bitbucket, Jenkins. 
+Description: Capital One Financial Corporation is an American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States. It is the 12th largest bank in the United States by total assets as of 2022, the third largest issuer of Visa and Mastercard credit cards, and one of the largest car finance companies in the United States.[
+Responsibilities and contributions:
+Done with transformers, exception handling, testing & security of Mule Api through jwt.
+Used Data Base Connectors to connect with respective systems using Mule ESB.
+Experience in Any point API platform on designing and implementing Mule Apis.
+Created MULE ESB artifact and configured the MULE configuration files and deployed to Live Environment.
+Designed and developed APIs using API Manager.
+Added new APIs by importing from existing exported API configuration file.
+Created new mule integration flows for new applications using Design Centre.
+Extensively used Mule Components that include Data Weave,for-ech-parallel,Btach,Scattergather,choice.
+Configured different Mule Connectors like . (Http, SFTP, Webservice Consumer, Database, Salesforce, JMS, Object Store, Anypoint MQ,SAP,Salesforce,AmazonS3 etc.)
+Configuring the Mule process for fetching the data from topic and makes web service calls to the middle tier o Mule ESB for processing and put the data on the Cloud hub.
+Used GIT as version controlling tool and maven for Building and deployed Application to Mule On cloud.
+Performed integration with other sub-systems through JMS, XML and XSL using Mule ESB. Worked closely with sales team and business analysts and performed detailed analysis of business
+Technical requirements and designed the solution by customizing various standard objects
+Developed the integration flows using a Mule Soft ESB framework.
+Created Restful APIs using MULE-ESB for cleaning up data in the database as part of maintenance process.
+
+
+
+
+
+
+Project #2	:   Cigna (Dec 2021- Nov 2022)
+Domain	:   Healthcare
+Role	:   MuleSoft Developer
+Environment		:   AnypointStudio, MuleRuntime 4.4, Jenkins, GIT, Maven, MySQL, 
+
+Description: The Cigna Group is a for-profit American multinational managed healthcare and insurance company based in Bloomfield, Connecticut. Its insurance subsidiaries are major providers of medical, dental, disability, life and accident insurance and related products and services.
+Responsibilities and contributions:
+
+Developed end to end orchestrations to integration.
+Development of mule flow configuration files.
+Developed and managed external properties file.
+Developed API Kit using RAML files for purchase Orders, payment, and actuals resources with POST operations.
+Deployed and managed APIs in Cloud Hub using Jenkins.
+Involved in applying security scheme to APIs.
+Involved in applying Test Driven Approach using MUnit.
+Involved in applying exception handling mechanism to both API.
+
+
+Project #1       :    Lexvor Inc. 
+Client               :    Lexvor Wireless(USA) 
+Designation     :   Associate Consultant. 
+Technologies   :    Spring Boot, Java, Rest API, Apache Tomcat, Micro Services 
+Description: 
+Lexvorbuilds telecom sites, provides allocation sites and In-Building passive infrastructure sharing opportunities for all of USA. Mobile Network Operators (MNO). Lexvor has also developed a host of sophisticated processes and systems that help customers establish their communication network with speed and ease. These processes and systems are especially designed to maximize collocation opportunities on its sites and help MNO expand their communication networks with cost savings. 
+
+Java Responsibilities:
+Wrote various controllers for the Spring.
+ Implement MVC architecture using Spring Framework. Designing, creating, database, writing DDL, DML statements.
+Making changes to code base for new features being added.
+Developed JSP pages for application.
+Client-side data is validated using JavaScript before being submitted to the database.
+Involved in Designing the Database for this project.
+Involved in the front-end, middleware and back-end development.
+Declaration: 
+
+	I do hereby confirm that the information given above is true to the best of my knowledge and belief.
+
+
+                 VIJAY C
