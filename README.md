@@ -1,6 +1,4 @@
 Steps to Get Project working
-
-
 1) Create Virtual Environment.
     python -m venv venv
 
