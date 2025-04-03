@@ -1,8 +1,9 @@
 
 from typing import Optional
-from fastapi import FastAPI, File ,Path,UploadFile
+from fastapi import FastAPI, File, Path, UploadFile, HTTPException
 from pydantic import BaseModel
 from fastapi.responses import FileResponse
+from typing import Literal
 import os
 
 
@@ -65,8 +66,8 @@ def get_student(*,student_id: int ,name: str):
                 return students[student_id]
       return{"data":"not found"}
 
-@app.post("/create-student/{student_id}")
-def create_student(student_id: int , student: Student):
+@app.post("/create-student/{student_id}", response_model=Student)
+async def create_student(student_id: int , student: Student):
       if student_id in students:
             return{"error": "student exist"}
       
@@ -94,8 +95,28 @@ def update_student(student_id: int , student: update_student):
 @app.delete("/delete-student/{student_id}")
 def delete_student(student_id: int):
       if Student not in students:
-            return{"error":"student does not exist"}
+            raise HTTPException (status_code=404, detail="student not found") 
       
 
       del students[student_id]
       return{"message":"student deleted successfully"}
+      
+
+student={
+     "poo":{"name":"poo"},
+     "foo":{"name":"foo", "age":"12"},
+     "soo":{"name":"soo", "age": None, "year": "9 years"},
+}
+
+
+@app.get("/student/{student_id}", response_model_exclude_unset=True)
+async def read_student(student_id: Literal["poo", "foo", "soo"]):
+         return student[student_id]
+
+@app.get("/student/{student_id}/name", response_model_include={"name", "age"})
+async def read_student_name(student_id: Literal["poo", "foo", "soo"]):
+         return student[student_id]
+
+@app.get("/student/{student_id}/public", response_model_exclude={"year"})
+async def read_student(student_id: Literal["poo", "foo", "soo"]):
+         return student[student_id]
